@@ -40,7 +40,7 @@ El repositorio también incluye dos carpetas adicionales:
 
 2. **scripts_sql:**
    - Contiene los scripts SQL necesarios para crear la base de datos, así como las vistas, funciones y procedimientos almacenados requeridos por la aplicación.
-   - [Ver capturas de pantalla](scripts_sql/)
+   - [Ver scripts sql](scripts_sql/)
 
 ## Requisitos
 
